@@ -8,23 +8,23 @@ const messages = [
 
     { text: "His name is Mr. Sanil Dulal, a shining star in the parallel universe. His skills gleam like the stars in a magical night sky, and his unique qualities are an enchantment waiting to unfold, a wizard in the making.", speaker: "stanfordtree" },
 
-    { text: "Mr. Sanil, you say? Describe the hues of magic that adorn his potential. What makes him The Stanford Tree chosen one?", speaker: "dean" },
+    { text: "Mr. Sanil, you say? Describe the hues of magic that adorn his potential. What makes him the chosen one?", speaker: "dean" },
 
     { text: "Despite hard times, lack of support, and limited resources, this applicant has stood still. Not only that, but this applicant is also a brilliant wizard and an extraordinary individual. This applicant has caught my discerning eye, and stanford is his top-choice school.", speaker: "stanfordtree" },
 
-    { text: "But The Stanford Tree, this is not enough to be The Stanford Tree chosen one. I asked you to find that amazing applicant who truly belongs to stanford. Upon seeing his file, he really does not have good academics. The Stanford Tree, my friend, I think you made a mistake this time. What made you choose this applicant?", speaker: "dean" },
+    { text: "But The Stanford Tree, this is not enough to be the chosen one. I asked you to find that amazing applicant who truly belongs to stanford. Upon seeing his file, he really does not have good academics. The Stanford Tree, my friend, I think you made a mistake this time. What made you choose this applicant?", speaker: "dean" },
 
     { text: "(smiles) Dear Dean, I have not made any mistake. Even when I came across his application file, I thought the same. But sometimes, a person is much more than what they have on the paper. Mr. Sanil's life has been so much different and better after those terrible grades. He has become a better person and, yes, a more skillful one.", speaker: "stanfordtree" },
 
     { text: "This applicant, a diligent and resilient individual, didn't let challenging times deter him. Not only boasting the highest grades, he worked tirelessly, teaching himself different programming languages, various cybersecurity topics, developing security tools, engaging in research or educating people. He has been doing a lot more with the limited resources he has.", speaker: "stanfordtree" },
 
-    { text: "I understand this, but stanfordtree, can he survive the rigorous academic curriculum at this institution?", speaker: "dean" },
+    { text: "I understand this, but the Stanford Tree, can he survive the rigorous academic curriculum at this institution?", speaker: "dean" },
 
     { text: "Rest assured, esteemed Dean. Despite his grades, Mr. Sanil possesses a resilient and adaptable magic. He is a self-taught individual, mastering programming languages and cybersecurity topics with no external guidance. He is also the founder of Zeroforetell, a startup in zero-day vulnerability; he excels in this tough and sensitive field. ", speaker: "stanfordtree" },
 
     { text: "His magical prowess extends far beyond the classroom. Coming from a background with limited resources, everything seemingly against him, Mr. Sanil's determination prevailed. Mr. Sanil's knowledge and hardworking nature make him well-equipped to handle our rigorous course curriculum. You need not worry about their ability to navigate our rigorous academic realm.", speaker: "stanfordtree" },
 
-    { text: "The Stanford Tree, what other qualities make him The Stanford Tree chosen one? Are there hidden gems in his file that I may have overlooked?", speaker: "dean" },
+    { text: "The Stanford Tree, what other qualities make him the chosen one? Are there hidden gems in his file that I may have overlooked?", speaker: "dean" },
 
     { text: "Certainly, esteemed Dean. Mr. Sanil stands out not just for his academic brilliance but also for being a kind and supportive friend in our community. His extraordinary ability to bring warmth and help to others is truly remarkable. Often unnoticed on paper, his positive spirit and friendly nature make him a bright presence in our enchanted academic world.", speaker: "stanfordtree" },
 
@@ -32,9 +32,9 @@ const messages = [
 
     { text: "Despite teaching himself many things, he has encountered numerous challenges, with a significant one being a lack of resources and guidance on diverse topics. This is precisely why Sanil wants to be a part of our community. At Stanford, we strive to be the shelter for those struggling in the rain. It is the beauty that defines stanford, and we should give shelter to individuals like Mr. Sanil.", speaker: "stanfordtree" },
 
-    { text: "You are right stanfordtree. Let me discuss this with the Headmaster (President), and I will let you know what he thinks.", speaker: "dean" },
+    { text: "You are right Stanford Tree. Let me discuss this with the Headmaster (President), and I will let you know what he thinks.", speaker: "dean" },
 
-    { text: "Dear stanfordtree, well done! The Headmaster is also genuinely impressed with this applicant, and we truly feel he is The Stanford Tree chosen one for the class of 2028. He belongs to this community, and we are committed to helping him achieve great things. I will instruct the admission team to go through his file now and accept him for the class of 2028. Good work, The Stanford Tree!", speaker: "dean" },
+    { text: "Dear Stanford Tree, well done! The Headmaster is also genuinely impressed with this applicant, and we truly feel he is the chosen one for the class of 2028. He belongs to this community, and we are committed to helping him achieve great things. I will instruct the admission team to go through his file now and accept him for the class of 2028. Good work, The Stanford Tree!", speaker: "dean" },
 
     { text: "Dear Dean, thank you for your kind words!, in granting Mr. Sanil this opportunity, we believe in the transformative power of one chance. Indeed, he deserves this chance to weave his own magical tale within the enchanted halls of Stanford. Thank you for recognizing his potential and affording him the opportunity to shine in the class of 2028.", speaker: "stanfordtree" },
 
